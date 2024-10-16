@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.input {
+  @apply px-3 py-1 bg-gray-300 rounded text-gray-950;
+}
+
+.label {
+  @apply font-semibold mb-2 text-sm;
+}

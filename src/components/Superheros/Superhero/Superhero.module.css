@@ -1,0 +1,24 @@
+.superhero {
+  padding: 17px;
+  background-color: #d2cfcf;
+}
+
+:global(h2) {
+  text-align: center;
+}
+
+.superhero img {
+  width: 10vw;
+  margin: 0 auto 15px auto;
+  display: block;
+  border-radius: 50%;
+  height: 10vw;
+  object-fit: cover;
+}
+
+.read-more {
+}
+
+.superheroPrefere {
+  background-color: #f4777c;
+}
